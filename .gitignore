@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
 .venv/
-.vscode/
-ev3-infrared-remote.code-workspace
+.DS_Store
