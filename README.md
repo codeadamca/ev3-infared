@@ -4,7 +4,11 @@ A Python snippet utilizing the LEGO EV3 infrared sensor and remote, the LEGO EV3
 
 This example uses the four buttons on the infrared remote to control two EV3 motors. The terminal will also disply information regarding the location of the infrared remote.
 
-The [Documentation for Pybricks](https://docs.pybricks.com/en/latest/ev3devices.html) is really helpful.
+---
+
+## Repo Resoureces
+
+- [Pybricks - Documentation](https://docs.pybricks.com/en/latest/ev3devices.html)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
